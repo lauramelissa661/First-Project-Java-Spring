@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p th:text="'Hello, ' + ${name} + '!'"></p>
+
+<h2>Embrace a Healthier Lifestyle</h2>
+<p>Fresh vegetables are nature's gift for optimal health. Packed with essential vitamins, minerals, and antioxidants,
+    they boost immunity, improve digestion, and reduce the risk of chronic diseases. The colorful variety on your plate
+    represents different nutrients - dark leafy greens for iron, red peppers for vitamin C, and purple eggplants for
+    antioxidants. Remember, eating seasonal and locally grown produce ensures maximum freshness and nutritional value.</p>
+
+<img th:src="@{/image/veggies.jpeg}" width="600" height="600" alt="Fresh colorful vegetables"/>
+</body>
+</html>
