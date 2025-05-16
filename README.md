@@ -16,6 +16,11 @@ Simple Spring Boot application with:
 - Thymeleaf template for greeting page
 - Shows vegetable image
 
+- ## Screenshot of Result
+
+![App Screenshot](screenshot/result.png)
+  
+
 ## Tech
 - Java 17
 - Spring Boot 3
