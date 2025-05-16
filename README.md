@@ -18,7 +18,7 @@ Simple Spring Boot application with:
 
 - ## Screenshot of Result
 
-![App Screenshot](main/screenshots/result.png)
+![App Screenshot](screenshots/result.png)
   
 
 ## Tech
